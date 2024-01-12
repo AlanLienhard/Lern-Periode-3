@@ -31,7 +31,7 @@ Alan Lienhard
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Schlange bewegt sich                   |                |                |          |
+| 1               |   Schlange bewegt sich                   |     Schlange kollidiert mit dem Spielfeld Rand           |    Schlange geht nicht über den Rand hinaus            |          |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 ---
