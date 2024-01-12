@@ -41,11 +41,11 @@ Alan Lienhard
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
+- [ ] Speicherung von einem Highscore
 
 - [ ] Spiel endet, wenn Schlange sich selber beisst
 
-- [ ] Achtes AP
+- [ ] Zeit für sonstige Fehlerbehebung
 
 | Testfall-Nummer | Ausgangslage (Given)                                             | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ---------------------------------------------------------------- | --------------------------- | -------------- | -------- |
