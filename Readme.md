@@ -20,19 +20,21 @@ Alan Lienhard
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich erkundigt, wie ich diese zwei möglichen Projektideen umsetzen kann. Ich habe mich entschieden, mich an einem Snake-Spiel in C# auf der Konsole zu versuchen. Dazu muss ich eine Art "Grid" oder Spielfeld machen. Die Konsole soll sich mehrmals in der Sekunde ohne zu flackern refreshen. Wenn die Schlange ein bestimmtes Objekt berührt, soll sie länger werden und die Punktezahl steigt. Ich denke, die grösste Schwierigkeit wird es, dass es nicht Game Over ist, wenn die Schlange den Rand vom Spielfeld berührt und, dass wenn sie den Rand berührt dann am anderen Ende rauskommt (z.B. berührt den oberen Rand und kommt am unteren Rand wieder raus). Also das typische Snake-Spiel.
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Spielfeld machen (Cursor darf auch nicht sichtbar sein)
+- [ ] Konsolenapplikation soll sich mehrmals in der Sekunde erneuern/refreshen
+- [ ] Objekt machen, das die Schlange bei Kontakt länger macht und den Score erhöht
+
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
+---
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
