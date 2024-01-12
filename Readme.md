@@ -34,7 +34,6 @@ Alan Lienhard
 | 1               |                      |                |                |          |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
----
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
