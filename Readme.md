@@ -31,9 +31,9 @@ Alan Lienhard
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Schlange bewegt sich                   |     Schlange kollidiert mit dem Spielfeld Rand           |    Schlange geht nicht über den Rand hinaus            |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               | Applikation wird gestartet                   | Applikation wird refreshed              |   Änderung wird angezeigt, falls vorhanden             |          |
+| 2          |      Schlange bewegt sich                 |        Schlange kollidiert mit dem Spielfeld Rand        |   Schlange geht nicht über den Rand hinaus             |          |
+| 3              |          Schlange bewegt sich und der Bildschirm refreshed sich            |    Schlange berührt Objekt            |  Score + 1 und Schlange wird um ein Zeichen länger              |          |
 ---
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
