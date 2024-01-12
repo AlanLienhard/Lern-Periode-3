@@ -1,6 +1,6 @@
 # Lern-Periode 3
 
-Max Muster
+Alan Lienhard
 
 12.1. bis 23.2.2024
 
