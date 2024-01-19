@@ -24,8 +24,8 @@ Alan Lienhard
 
 ## 19.1.2024
 
-- [ ] Spielfeld machen (Cursor darf auch nicht sichtbar sein)
-- [ ] Konsolenapplikation soll sich mehrmals in der Sekunde erneuern/refreshen
+- [x] Spielfeld machen (Cursor darf auch nicht sichtbar sein)
+- [x] (halbwegs geschafft) Konsolenapplikation soll sich mehrmals in der Sekunde erneuern/refreshen
 - [ ] Objekt machen, das die Schlange bei Kontakt länger macht und den Score erhöht
 
 
