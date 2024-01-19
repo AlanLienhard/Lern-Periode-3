@@ -35,12 +35,17 @@ Alan Lienhard
 | 2          |      Schlange bewegt sich                 |        Schlange kollidiert mit dem Spielfeld Rand        |   Schlange geht nicht über den Rand hinaus             |          |
 | 3              |          Schlange bewegt sich und der Bildschirm refreshed sich            |    Schlange berührt Objekt            |  Score + 1 und Schlange wird um ein Zeichen länger              |          |
 ---
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute am 16.1 habe ich angefangen am Spiel zu arbeiten. Ich habe zuerst das "Spielfeld" gemacht mit einem provisorischem Charakter/Schlangenkopf, der sich zur Zeit nur nach links und rechts bewegen kann. Ich habe beim Googeln und suchen auf Websiten wie Stackoverflow mehr Zeit verschwendet, als ich dachte, dass es möglich sei. Zum Beispiel, ich habe gefragt, wie man den Cursor in einer KonsolenApplikation unsichtbar macht (ausser man klickt mit der Maus). Ich hatte dabei leider viele Ergebnisse, die sagten, man könnte den Cursor nicht wirklich unsichtbar machen. Später dann bekam ich ein Google-Ergebnis, das ganz einfach nur eine Linie für das brauchte, nähmlich ´´´
+Console.CursorVisible = false;```. Ich soll auch machen, dass wenn sich der Screen refreshed, dass der Bildschirm nicht flickert. Ich soll natürlich auch das dritte Arbeitspaket nachholen.(130 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 26.1.2024
 
+- [ ] Drittes Arbeitspaket vom 19.01 nachholen
+      
+- [ ] Machen, dass der Screen beim Refreshen nicht flickert
+      
 - [ ] Speicherung von einem Highscore
 
 - [ ] Spiel endet, wenn Schlange sich selber beisst
