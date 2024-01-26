@@ -58,7 +58,7 @@ Console.CursorVisible = false;```. Ich soll auch machen, dass wenn sich der Scre
 | 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |       Nein   |
 | 8               |                                                                  |                             |                |    Nein      |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich erstmal viel weniger geschafft, als ich es erwartet/geplant hatte. Ich wollte zuerst noch machen, dass wenn die Schlange (was zu der Zeit nur ein 'X' ist) z.B. den linken Rand berührt, dass sie am rechten Rand wieder raus kommt, und das in alle Richtungen. Ich dachte es wäre nicht kompliziert, aber ich habe da zu viel Zeit gebraucht und wurde noch nicht fertig damit. Das Problem für mich war, das die CursorPosition in einer Unter-Schleife (Schleife in Schleife) einer Variabel zugewiesen wurde. Dieser Wert wird aber in einer "Überliegenden" Schleife genutzt. Ich werde mich aber noch in den kommenden Ferien daran versuchen. (107 Wörter) 
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
