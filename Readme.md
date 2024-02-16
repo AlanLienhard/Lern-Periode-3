@@ -64,7 +64,7 @@ Console.CursorVisible = false;```. Ich soll auch machen, dass wenn sich der Scre
 
 ## 16.2.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 16.2. habe ich den Code von meinem Projekt nach vorgegebenen Angaben "aufbereitet" (hoffentlich richtig gemacht). Dazu musste ich Variabeln, die ich im Code habe, einen englischen Namen geben und den Namen nach der Funktionalität wählen. Ich habe auch Kommentare im Code gelöscht/geändert/hinzugefügt, je nachdem, ob sie passen. Kommentare beschreiben nicht, was der Code macht, sondern wieso bestimmte Sachen so sind, wie sie sind.  (65 Wörter)
 
 ## Reflexion
 
