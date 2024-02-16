@@ -71,3 +71,5 @@ Console.CursorVisible = false;```. Ich soll auch machen, dass wenn sich der Scre
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP
+
+Ich fande die 10-wöchige LP2 angenehmer, weil man mehr Zeit hatte und damit konnte man auch grössere bzw. ummfangreichere Projekte machen, oder auch das Projekt mittendrin wechseln und man hat dann generell, finde ich, eine freiere Projektwahl und man fühlt weniger Zeitstress (ich zumindest).
