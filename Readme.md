@@ -70,6 +70,9 @@ Console.CursorVisible = false;```. Ich soll auch machen, dass wenn sich der Scre
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
+In dieser Lernperiode, der dritten, wollte ich ein Snake-Spiel in der C# Konsole machen, woran ich in dem vorgegebenem Zeitraum scheiterte. Ich denke, dass das an zu schlechten Google-Prompts lag, denn ich konnte wenig Lösungen zu meinen Problemen finden und diejenigen, die ich fand, waren auf Stackoverflow umstritten (wenig Upvotes und einige Kommentare/"notes" die etwas anderes als der Kommentator meinten). Und ich denke auch, dass es, verbindlich mit dem vorherigem Punkt, an fehlendem Programmierkönnen oder Erfahrung lag (oder zumindest teilweise). Aber ich finde nicht, dass es schlimm ist, weil ich zukünftig auch nicht jedes Projekt rechtzeitig abgeben kann und ich werde zukünftig genauer planen und auch die benötigte Zeit eher überschetzen (ich finde, ich habe früher die benötigte Zeit für ein Coding-Projekt unterschätzt).
+Ich habe in dieser LP auch weniger abgelenkt bzw. fokusierter gearbeitet, noch nicht so, wie ich es mir in der VBV von LP2 vorgestellt hatte, aber es kommt nah hin, ich hilf mich in dem Sinne auch darin weiter verbessern. (163 Wörter)
+
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP
 
 Ich fande die 10-wöchige LP2 angenehmer, weil man mehr Zeit hatte und damit konnte man auch grössere bzw. ummfangreichere Projekte machen, oder auch das Projekt mittendrin wechseln und man hat dann generell, finde ich, eine freiere Projektwahl und man fühlt weniger Zeitstress (ich zumindest).
